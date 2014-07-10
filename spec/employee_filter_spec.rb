@@ -1,3 +1,4 @@
+require 'date'
 require "employee_filter"
 
 describe EmployeeFilter do
